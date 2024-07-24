@@ -1,0 +1,29 @@
+.form-head {
+    background-color: rgb(247, 247, 247) !important;
+    padding: 40px;
+    border-radius: 4px;
+}
+
+.active {
+    /* background-color: gray; */
+    border-bottom: 2px solid yellow;
+}
+
+.ql-editor p {
+    height: 150px;
+
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+}
+
+.updatePost {
+    display: flex;
+    justify-content: space-between;
+}
+
+.dropdown {
+    background-color: transparent !important;
+}
